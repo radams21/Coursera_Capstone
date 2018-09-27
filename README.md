@@ -1,1 +1,2 @@
-# IBM_DS_Capstone
+# Coursera_Capstone
+## Final Course in IBM Data Science Professional Certificate Specialization
